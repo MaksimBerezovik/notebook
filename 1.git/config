@@ -1,0 +1,21 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/MaksimBerezovik/notebook.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[user]
+	name = Maksim Berezovik
+	email = 9641650@gmail.com
+[gui]
+	wmstate = normal
+	geometry = 1109x563+224+224 216 255
+[lfs]
+	repositoryformatversion = 0

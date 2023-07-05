@@ -1,0 +1,25 @@
+version: '3'
+
+output: 'prefixed'
+
+tasks:
+  code-lint:
+    cmds:
+      - >
+        poetry run autoflake
+        --exclude '*.local*'
+        --expand-star-imports
+        --in-place
+        --recursive
+        --remove-all-unused-imports
+        --remove-duplicate-keys
+        --remove-unused-variables
+        --verbose
+        .
+      - poetry run isort .
+      - poetry run black .
+      - poetry run black --check .
+      - poetry run isort --check-only .
+      - poetry run mypy
+      - poetry run flake8
+    desc: sequentially applies linters

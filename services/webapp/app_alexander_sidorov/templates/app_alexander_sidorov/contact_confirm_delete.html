@@ -1,0 +1,22 @@
+{% extends 'app_alexander_sidorov/base.html' %}
+{% block title %}Вы уверены?{% endblock title %}
+
+{% block content %}
+
+<div>
+    <p>Будем удалять контакт:</p>
+    <ul>
+        <li>Имя: {{ object.name }}</li>
+        <li>Телефон: {{ object.phone }}</li>
+    </ul>
+
+    <p>Удаляем?</p>
+</div>
+
+<p><form method="post" action="/alexander_sidorov/contacts/{{ object.pk }}/delete/">
+    {% csrf_token %}
+    <button type="submit">Удаляем</button>
+</form></p>
+<p><a href="{{ object.get_absolute_url }}"><button>Назад</button></a></p>
+
+{% endblock content %}

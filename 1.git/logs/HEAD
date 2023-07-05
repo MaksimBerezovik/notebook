@@ -1,0 +1,291 @@
+0000000000000000000000000000000000000000 f49ff980d8c0e6c6d40bdd75d981e180ffb9cebd BerezovikV <berezovikveronika@gmail.com> 1677860928 +0300	clone: from https://github.com/alexander-sidorov/m-pt1-63-23.git
+f49ff980d8c0e6c6d40bdd75d981e180ffb9cebd ada82454320ebb1465367a5fb9bf59ab86f7d329 BerezovikV <berezovikveronika@gmail.com> 1677861649 +0300	pull: Fast-forward
+ada82454320ebb1465367a5fb9bf59ab86f7d329 f236f57d41db2ebde23f14ef9709f3dbb7dba42b BerezovikV <berezovikveronika@gmail.com> 1677864195 +0300	pull: Fast-forward
+f236f57d41db2ebde23f14ef9709f3dbb7dba42b e6f330c508d977c30cd7cd0fd6c7415239381076 BerezovikV <berezovikveronika@gmail.com> 1677865002 +0300	pull: Fast-forward
+e6f330c508d977c30cd7cd0fd6c7415239381076 92e83156cc5813ed27df4f6e2144ab423f048f5c BerezovikV <berezovikveronika@gmail.com> 1677865820 +0300	pull: Fast-forward
+92e83156cc5813ed27df4f6e2144ab423f048f5c 80f13f23ba9f6072e643795215835ff81131eafd BerezovikV <berezovikveronika@gmail.com> 1677866928 +0300	rebase: checkout origin/main
+80f13f23ba9f6072e643795215835ff81131eafd 80f13f23ba9f6072e643795215835ff81131eafd BerezovikV <berezovikveronika@gmail.com> 1677866928 +0300	rebase finished: refs/heads/main onto 80f13f23ba9f6072e643795215835ff81131eafd
+80f13f23ba9f6072e643795215835ff81131eafd 4496f0307a62c8d99718f8f58f2bec26cfc5fb6e BerezovikV <berezovikveronika@gmail.com> 1677868013 +0300	rebase: checkout origin/main
+4496f0307a62c8d99718f8f58f2bec26cfc5fb6e 4496f0307a62c8d99718f8f58f2bec26cfc5fb6e BerezovikV <berezovikveronika@gmail.com> 1677868013 +0300	rebase finished: refs/heads/main onto 4496f0307a62c8d99718f8f58f2bec26cfc5fb6e
+4496f0307a62c8d99718f8f58f2bec26cfc5fb6e 4496f0307a62c8d99718f8f58f2bec26cfc5fb6e BerezovikV <berezovikveronika@gmail.com> 1677868690 +0300	checkout: moving from main to maksim-berezovik-lesson-2
+4496f0307a62c8d99718f8f58f2bec26cfc5fb6e 92ba2ab1358a27a8489b38e92847882db0531c91 BerezovikV <berezovikveronika@gmail.com> 1677869080 +0300	commit: change asgi.py
+92ba2ab1358a27a8489b38e92847882db0531c91 0d6a3638c458f0928af6426984c3920b9ab0d2bb Maksim Berezovik <9641650@gmail.com> 1678467818 +0300	commit: sorted
+0d6a3638c458f0928af6426984c3920b9ab0d2bb 4496f0307a62c8d99718f8f58f2bec26cfc5fb6e Maksim Berezovik <9641650@gmail.com> 1678471348 +0300	checkout: moving from maksim-berezovik-lesson-2 to main
+4496f0307a62c8d99718f8f58f2bec26cfc5fb6e 567bc480a62b1c0a7aff022aff398e4fa48bee80 Maksim Berezovik <9641650@gmail.com> 1678471378 +0300	rebase: checkout origin/main
+567bc480a62b1c0a7aff022aff398e4fa48bee80 567bc480a62b1c0a7aff022aff398e4fa48bee80 Maksim Berezovik <9641650@gmail.com> 1678471378 +0300	rebase finished: refs/heads/main onto 567bc480a62b1c0a7aff022aff398e4fa48bee80
+567bc480a62b1c0a7aff022aff398e4fa48bee80 0d6a3638c458f0928af6426984c3920b9ab0d2bb Maksim Berezovik <9641650@gmail.com> 1678471400 +0300	checkout: moving from main to maksim-berezovik-lesson-2
+0d6a3638c458f0928af6426984c3920b9ab0d2bb 567bc480a62b1c0a7aff022aff398e4fa48bee80 Maksim Berezovik <9641650@gmail.com> 1678472372 +0300	checkout: moving from maksim-berezovik-lesson-2 to main
+567bc480a62b1c0a7aff022aff398e4fa48bee80 04a1ac85825fa345a625560c3836dd409b935af9 Maksim Berezovik <9641650@gmail.com> 1678473312 +0300	rebase: checkout origin/main
+04a1ac85825fa345a625560c3836dd409b935af9 04a1ac85825fa345a625560c3836dd409b935af9 Maksim Berezovik <9641650@gmail.com> 1678473312 +0300	rebase finished: refs/heads/main onto 04a1ac85825fa345a625560c3836dd409b935af9
+04a1ac85825fa345a625560c3836dd409b935af9 b255affde65b54f851910602c7aaba457a124cfb Maksim Berezovik <9641650@gmail.com> 1678473744 +0300	rebase: checkout origin/main
+b255affde65b54f851910602c7aaba457a124cfb b255affde65b54f851910602c7aaba457a124cfb Maksim Berezovik <9641650@gmail.com> 1678473744 +0300	rebase finished: refs/heads/main onto b255affde65b54f851910602c7aaba457a124cfb
+b255affde65b54f851910602c7aaba457a124cfb b255affde65b54f851910602c7aaba457a124cfb Maksim Berezovik <9641650@gmail.com> 1678473778 +0300	checkout: moving from main to Maksim_Berezovik_lesson3
+b255affde65b54f851910602c7aaba457a124cfb 6f81a436c4425dcf8db1dc039fdb9775007b11cb Maksim Berezovik <9641650@gmail.com> 1678474010 +0300	commit: start
+6f81a436c4425dcf8db1dc039fdb9775007b11cb 75a0b0d2543762ae795b55cbffddbed9399e2b39 Maksim Berezovik <9641650@gmail.com> 1678474136 +0300	commit: Maksim Berezovik lesson03
+75a0b0d2543762ae795b55cbffddbed9399e2b39 2d4e9359ff2045812ecd1d61c3693ca9848f8739 Maksim Berezovik <9641650@gmail.com> 1678474370 +0300	commit: Maksim Berezovik lesson03
+2d4e9359ff2045812ecd1d61c3693ca9848f8739 b255affde65b54f851910602c7aaba457a124cfb Maksim Berezovik <9641650@gmail.com> 1678639241 +0300	checkout: moving from Maksim_Berezovik_lesson3 to main
+b255affde65b54f851910602c7aaba457a124cfb e0cb511c56043f20e9399be7fcb5cc3f56e8da95 Maksim Berezovik <9641650@gmail.com> 1678639250 +0300	rebase: checkout origin/main
+e0cb511c56043f20e9399be7fcb5cc3f56e8da95 e0cb511c56043f20e9399be7fcb5cc3f56e8da95 Maksim Berezovik <9641650@gmail.com> 1678639250 +0300	rebase finished: refs/heads/main onto e0cb511c56043f20e9399be7fcb5cc3f56e8da95
+e0cb511c56043f20e9399be7fcb5cc3f56e8da95 2d4e9359ff2045812ecd1d61c3693ca9848f8739 Maksim Berezovik <9641650@gmail.com> 1678639274 +0300	checkout: moving from main to Maksim_Berezovik_lesson3
+2d4e9359ff2045812ecd1d61c3693ca9848f8739 736b8b66272db02f77c74292cdff4aef6994d37b Maksim Berezovik <9641650@gmail.com> 1678639284 +0300	merge main: Merge made by the 'recursive' strategy.
+736b8b66272db02f77c74292cdff4aef6994d37b 56c0ef78f3ef5c65d5d1ed4036158f722f58e418 Maksim Berezovik <9641650@gmail.com> 1678639598 +0300	commit: Maksim Berezovik lesson03
+56c0ef78f3ef5c65d5d1ed4036158f722f58e418 26d42ce1973959389f2aca52b529d08c2afef768 Maksim Berezovik <9641650@gmail.com> 1678727278 +0300	commit: Maksim Berezovik lesson03
+26d42ce1973959389f2aca52b529d08c2afef768 bcd67e055507ca6d8296dd77d2e9840d5521ca35 Maksim Berezovik <9641650@gmail.com> 1678736446 +0300	commit: Maksim Berezovik lesson03
+bcd67e055507ca6d8296dd77d2e9840d5521ca35 9d69b3a60f58dacefa0795e169524e2f82f57a8a Maksim Berezovik <9641650@gmail.com> 1678736509 +0300	merge origin/Maksim_Berezovik_lesson3: Merge made by the 'recursive' strategy.
+9d69b3a60f58dacefa0795e169524e2f82f57a8a e0cb511c56043f20e9399be7fcb5cc3f56e8da95 Maksim Berezovik <9641650@gmail.com> 1678815197 +0300	checkout: moving from Maksim_Berezovik_lesson3 to main
+e0cb511c56043f20e9399be7fcb5cc3f56e8da95 b6ad5bff12b38bd3e30d69c337236eefa16028fe Maksim Berezovik <9641650@gmail.com> 1678815209 +0300	merge origin/main: Fast-forward
+b6ad5bff12b38bd3e30d69c337236eefa16028fe 9d69b3a60f58dacefa0795e169524e2f82f57a8a Maksim Berezovik <9641650@gmail.com> 1678815230 +0300	checkout: moving from main to Maksim_Berezovik_lesson3
+9d69b3a60f58dacefa0795e169524e2f82f57a8a 2e1a0958be19f97854c3a096fb7543396875cc41 Maksim Berezovik <9641650@gmail.com> 1678815242 +0300	merge main: Merge made by the 'recursive' strategy.
+2e1a0958be19f97854c3a096fb7543396875cc41 8285b2e4c815d8b3637d6243238de43b5ef7729d Maksim Berezovik <9641650@gmail.com> 1678816683 +0300	pull --ff --recurse-submodules --progress origin: Merge made by the 'ort' strategy.
+8285b2e4c815d8b3637d6243238de43b5ef7729d b6ad5bff12b38bd3e30d69c337236eefa16028fe Maksim Berezovik <9641650@gmail.com> 1678816745 +0300	checkout: moving from Maksim_Berezovik_lesson3 to main
+b6ad5bff12b38bd3e30d69c337236eefa16028fe 51c9ffd261975e689158d15f1841f062c814c5b5 Maksim Berezovik <9641650@gmail.com> 1678889893 +0300	merge origin/main: Fast-forward
+51c9ffd261975e689158d15f1841f062c814c5b5 51c9ffd261975e689158d15f1841f062c814c5b5 Maksim Berezovik <9641650@gmail.com> 1678896522 +0300	checkout: moving from main to Makism_Berezovik_lesson04
+51c9ffd261975e689158d15f1841f062c814c5b5 3e2c62dd8ea7ce4c7b472aa34eabf9f6fbf77e3e Maksim Berezovik <9641650@gmail.com> 1678902838 +0300	commit: Maksim Berezovik lesson04
+3e2c62dd8ea7ce4c7b472aa34eabf9f6fbf77e3e 51c9ffd261975e689158d15f1841f062c814c5b5 Maksim Berezovik <9641650@gmail.com> 1678903007 +0300	checkout: moving from Makism_Berezovik_lesson04 to main
+51c9ffd261975e689158d15f1841f062c814c5b5 9ec90c3c4e7110d9cda662ae7643800b8961fa62 Maksim Berezovik <9641650@gmail.com> 1678903014 +0300	merge origin/main: Fast-forward
+9ec90c3c4e7110d9cda662ae7643800b8961fa62 3e2c62dd8ea7ce4c7b472aa34eabf9f6fbf77e3e Maksim Berezovik <9641650@gmail.com> 1678903021 +0300	checkout: moving from main to Makism_Berezovik_lesson04
+3e2c62dd8ea7ce4c7b472aa34eabf9f6fbf77e3e 10e39d3119ced30b379376e187d21c3c12d6e46d Maksim Berezovik <9641650@gmail.com> 1678903028 +0300	merge main: Merge made by the 'recursive' strategy.
+10e39d3119ced30b379376e187d21c3c12d6e46d 51ac9ede5d75111144bbb0b151429033d476ea72 Maksim Berezovik <9641650@gmail.com> 1678903113 +0300	commit: Maksim Berezovik lesson04
+51ac9ede5d75111144bbb0b151429033d476ea72 89bd67d121fc0f1e267606e1a1bacfc04ed0960e Maksim Berezovik <9641650@gmail.com> 1678903137 +0300	merge origin/Makism_Berezovik_lesson04: Merge made by the 'recursive' strategy.
+89bd67d121fc0f1e267606e1a1bacfc04ed0960e e7983b4be75878a0459581ee69b43c4fb536e3a6 Maksim Berezovik <9641650@gmail.com> 1678903316 +0300	commit: Maksim Berezovik lesson04
+e7983b4be75878a0459581ee69b43c4fb536e3a6 17bc0bb07f8094cbcbef589c8afdb5bb1f91efa2 Maksim Berezovik <9641650@gmail.com> 1678903557 +0300	commit: Maksim Berezovik lesson04
+17bc0bb07f8094cbcbef589c8afdb5bb1f91efa2 9ec90c3c4e7110d9cda662ae7643800b8961fa62 Maksim Berezovik <9641650@gmail.com> 1679067655 +0300	checkout: moving from Makism_Berezovik_lesson04 to main
+9ec90c3c4e7110d9cda662ae7643800b8961fa62 c95ef165732da0a7045209a04d0114dc9af6d99f Maksim Berezovik <9641650@gmail.com> 1679067668 +0300	merge origin/main: Fast-forward
+c95ef165732da0a7045209a04d0114dc9af6d99f 17bc0bb07f8094cbcbef589c8afdb5bb1f91efa2 Maksim Berezovik <9641650@gmail.com> 1679067678 +0300	checkout: moving from main to Makism_Berezovik_lesson04
+17bc0bb07f8094cbcbef589c8afdb5bb1f91efa2 d2bf4def31d31bb43dc9b440497452481f37119f Maksim Berezovik <9641650@gmail.com> 1679067684 +0300	merge main: Merge made by the 'recursive' strategy.
+d2bf4def31d31bb43dc9b440497452481f37119f c95ef165732da0a7045209a04d0114dc9af6d99f Maksim Berezovik <9641650@gmail.com> 1679069093 +0300	checkout: moving from Makism_Berezovik_lesson04 to main
+c95ef165732da0a7045209a04d0114dc9af6d99f 8a9ea2863acfaa819dae3f971fcabfc1972557b4 Maksim Berezovik <9641650@gmail.com> 1679069104 +0300	merge origin/main: Fast-forward
+8a9ea2863acfaa819dae3f971fcabfc1972557b4 8a9ea2863acfaa819dae3f971fcabfc1972557b4 Maksim Berezovik <9641650@gmail.com> 1679071949 +0300	checkout: moving from main to maksim_berezovik_lesson05
+8a9ea2863acfaa819dae3f971fcabfc1972557b4 8a9ea2863acfaa819dae3f971fcabfc1972557b4 Maksim Berezovik <9641650@gmail.com> 1679077905 +0300	checkout: moving from maksim_berezovik_lesson05 to main
+8a9ea2863acfaa819dae3f971fcabfc1972557b4 fbe8c04cbdbd21c6329eac80e8ebea55df924740 Maksim Berezovik <9641650@gmail.com> 1679078031 +0300	merge origin/main: Fast-forward
+fbe8c04cbdbd21c6329eac80e8ebea55df924740 8a9ea2863acfaa819dae3f971fcabfc1972557b4 Maksim Berezovik <9641650@gmail.com> 1679078038 +0300	checkout: moving from main to maksim_berezovik_lesson05
+8a9ea2863acfaa819dae3f971fcabfc1972557b4 fbe8c04cbdbd21c6329eac80e8ebea55df924740 Maksim Berezovik <9641650@gmail.com> 1679078044 +0300	merge main: Fast-forward
+fbe8c04cbdbd21c6329eac80e8ebea55df924740 fbe8c04cbdbd21c6329eac80e8ebea55df924740 Maksim Berezovik <9641650@gmail.com> 1679078543 +0300	checkout: moving from maksim_berezovik_lesson05 to main
+fbe8c04cbdbd21c6329eac80e8ebea55df924740 b379de7c4fbdfdb3c1b604609993639dc6c50382 Maksim Berezovik <9641650@gmail.com> 1679078549 +0300	merge origin/main: Fast-forward
+b379de7c4fbdfdb3c1b604609993639dc6c50382 fbe8c04cbdbd21c6329eac80e8ebea55df924740 Maksim Berezovik <9641650@gmail.com> 1679078555 +0300	checkout: moving from main to maksim_berezovik_lesson05
+fbe8c04cbdbd21c6329eac80e8ebea55df924740 b379de7c4fbdfdb3c1b604609993639dc6c50382 Maksim Berezovik <9641650@gmail.com> 1679078564 +0300	merge main: Fast-forward
+b379de7c4fbdfdb3c1b604609993639dc6c50382 b449afc8b9e4b541440d6df2654dc6fe7822e08c Maksim Berezovik <9641650@gmail.com> 1679078888 +0300	commit: Maksim Berezovik lesson05
+b449afc8b9e4b541440d6df2654dc6fe7822e08c b379de7c4fbdfdb3c1b604609993639dc6c50382 Maksim Berezovik <9641650@gmail.com> 1679078895 +0300	checkout: moving from maksim_berezovik_lesson05 to main
+b379de7c4fbdfdb3c1b604609993639dc6c50382 404960f79e697afe2ffddb852148c2bd528aaa11 Maksim Berezovik <9641650@gmail.com> 1679078902 +0300	merge origin/main: Fast-forward
+404960f79e697afe2ffddb852148c2bd528aaa11 b449afc8b9e4b541440d6df2654dc6fe7822e08c Maksim Berezovik <9641650@gmail.com> 1679078907 +0300	checkout: moving from main to maksim_berezovik_lesson05
+b449afc8b9e4b541440d6df2654dc6fe7822e08c 3644bcecc22067edc3637fffd26c35ab6bd96993 Maksim Berezovik <9641650@gmail.com> 1679078913 +0300	merge main: Merge made by the 'recursive' strategy.
+3644bcecc22067edc3637fffd26c35ab6bd96993 404960f79e697afe2ffddb852148c2bd528aaa11 Maksim Berezovik <9641650@gmail.com> 1679142468 +0300	checkout: moving from maksim_berezovik_lesson05 to main
+404960f79e697afe2ffddb852148c2bd528aaa11 3644bcecc22067edc3637fffd26c35ab6bd96993 Maksim Berezovik <9641650@gmail.com> 1679142489 +0300	checkout: moving from main to maksim_berezovik_lesson05
+3644bcecc22067edc3637fffd26c35ab6bd96993 0000000000000000000000000000000000000000 Maksim Berezovik <9641650@gmail.com> 1679144061 +0300	Branch: renamed refs/heads/maksim_berezovik_lesson05 to refs/heads/maksim-berezovik-lesson-5-1
+0000000000000000000000000000000000000000 3644bcecc22067edc3637fffd26c35ab6bd96993 Maksim Berezovik <9641650@gmail.com> 1679144061 +0300	Branch: renamed refs/heads/maksim_berezovik_lesson05 to refs/heads/maksim-berezovik-lesson-5-1
+3644bcecc22067edc3637fffd26c35ab6bd96993 eea55933bfd00c2277fa850bf82a8436a96565b6 Maksim Berezovik <9641650@gmail.com> 1679144679 +0300	commit: closes #64
+eea55933bfd00c2277fa850bf82a8436a96565b6 9dbdd24d8cb70d9e4b019c595818986177457b7f Maksim Berezovik <9641650@gmail.com> 1679149546 +0300	commit: closes #64
+9dbdd24d8cb70d9e4b019c595818986177457b7f 36245ea597e1d502fa9022109a0f512a39fad2b7 Maksim Berezovik <9641650@gmail.com> 1679155327 +0300	commit: closes #64
+36245ea597e1d502fa9022109a0f512a39fad2b7 e155239b73356d6e6eb9bfb3c9a3c479c5d27503 Maksim Berezovik <9641650@gmail.com> 1679158304 +0300	commit: add check
+e155239b73356d6e6eb9bfb3c9a3c479c5d27503 d4d209ea6549c3beac33bcb1884ea9ca3ff82b71 Maksim Berezovik <9641650@gmail.com> 1679162727 +0300	commit: change tests
+d4d209ea6549c3beac33bcb1884ea9ca3ff82b71 1132d3a090dfc9f178d90c241f63f120e34b4d07 Maksim Berezovik <9641650@gmail.com> 1679211032 +0300	commit: change name tests
+1132d3a090dfc9f178d90c241f63f120e34b4d07 fb484ee78113b2a9e01ee465c238b791a3c0e38f Maksim Berezovik <9641650@gmail.com> 1679244177 +0300	commit: change tests and lesson03
+fb484ee78113b2a9e01ee465c238b791a3c0e38f fcb3bbede91a0b4a4a5cb0524f746c7ebc2ad085 Maksim Berezovik <9641650@gmail.com> 1679246786 +0300	commit: change tests and lesson03
+fcb3bbede91a0b4a4a5cb0524f746c7ebc2ad085 404960f79e697afe2ffddb852148c2bd528aaa11 Maksim Berezovik <9641650@gmail.com> 1679301418 +0300	checkout: moving from maksim-berezovik-lesson-5-1 to main
+404960f79e697afe2ffddb852148c2bd528aaa11 6689222133720b31d893c98802d7c3751f2c82a1 Maksim Berezovik <9641650@gmail.com> 1679301432 +0300	merge origin/main: Fast-forward
+6689222133720b31d893c98802d7c3751f2c82a1 6689222133720b31d893c98802d7c3751f2c82a1 Maksim Berezovik <9641650@gmail.com> 1679301455 +0300	checkout: moving from main to maksim-berezovik-lesson-5-2
+6689222133720b31d893c98802d7c3751f2c82a1 3702edba3295f65d132e6c27d005e77723e82670 Maksim Berezovik <9641650@gmail.com> 1679321963 +0300	commit: Check value=str
+3702edba3295f65d132e6c27d005e77723e82670 6468026825d6919f7047bd3daf01505755580c06 Maksim Berezovik <9641650@gmail.com> 1679335605 +0300	commit: IF value=str -- OK
+6468026825d6919f7047bd3daf01505755580c06 3157d96761c8d819487358018f673d5155c1af25 Maksim Berezovik <9641650@gmail.com> 1679337647 +0300	commit: IF value=str -- OK
+3157d96761c8d819487358018f673d5155c1af25 9c15921660b7e4bb14d98d88d521c5f47055a6e8 Maksim Berezovik <9641650@gmail.com> 1679383532 +0300	commit: IF value=str -- OK "with parser"
+9c15921660b7e4bb14d98d88d521c5f47055a6e8 1c514dfe0fafa4cd3b53796db48a786370875120 Maksim Berezovik <9641650@gmail.com> 1679397636 +0300	commit: IF value=str -- OK "with Value check"
+1c514dfe0fafa4cd3b53796db48a786370875120 a9b2ac7fc6f32c18d0df56fc37945ca1dc39b5fc Maksim Berezovik <9641650@gmail.com> 1679403909 +0300	commit: IF value=list
+a9b2ac7fc6f32c18d0df56fc37945ca1dc39b5fc 6fa1068d590a2a760b8abf7b2df76f366789aff3 Maksim Berezovik <9641650@gmail.com> 1679409648 +0300	commit: Rebase code algoritm
+6fa1068d590a2a760b8abf7b2df76f366789aff3 9db27fcf36378ff449161204d21452e4f6c2fa21 Maksim Berezovik <9641650@gmail.com> 1679425036 +0300	commit: Rebase code algoritm ver 0.2
+9db27fcf36378ff449161204d21452e4f6c2fa21 abf0222ca6da004e37e7667d692a85be26037afd Maksim Berezovik <9641650@gmail.com> 1679477976 +0300	commit: Rebase code algoritm ver 0.3
+abf0222ca6da004e37e7667d692a85be26037afd 579ff5a154c819fce95af8a6836ad63633122b6a Maksim Berezovik <9641650@gmail.com> 1679486673 +0300	commit: Add support second parametr for str, ver 0.3.1
+579ff5a154c819fce95af8a6836ad63633122b6a 8f5e0c8e71f17662cec295767af33e27d5daa36f Maksim Berezovik <9641650@gmail.com> 1679505818 +0300	commit: work ver, ver 0.4
+8f5e0c8e71f17662cec295767af33e27d5daa36f 64c86144ffb8cded2c735fe3a6cfcedcc7cb3ebf Maksim Berezovik <9641650@gmail.com> 1679507573 +0300	commit: work ver, ver 0.4.1
+64c86144ffb8cded2c735fe3a6cfcedcc7cb3ebf 40cf73156f90d7d22506ad8a4d25016e3572f186 Maksim Berezovik <9641650@gmail.com> 1679510050 +0300	commit: work ver, ver 0.4.2
+40cf73156f90d7d22506ad8a4d25016e3572f186 dee1d2fe2663f8c25427d4aa24788616f22fafe3 Maksim Berezovik <9641650@gmail.com> 1679556310 +0300	commit: work ver, ver 0.4.3
+dee1d2fe2663f8c25427d4aa24788616f22fafe3 6689222133720b31d893c98802d7c3751f2c82a1 Maksim Berezovik <9641650@gmail.com> 1679556334 +0300	checkout: moving from maksim-berezovik-lesson-5-2 to main
+6689222133720b31d893c98802d7c3751f2c82a1 7fb19013af0aa086a23ce376a6fd51c89ca51a9e Maksim Berezovik <9641650@gmail.com> 1679556343 +0300	merge origin/main: Fast-forward
+7fb19013af0aa086a23ce376a6fd51c89ca51a9e dee1d2fe2663f8c25427d4aa24788616f22fafe3 Maksim Berezovik <9641650@gmail.com> 1679556349 +0300	checkout: moving from main to maksim-berezovik-lesson-5-2
+dee1d2fe2663f8c25427d4aa24788616f22fafe3 89109b98037a0cee170909e9e9b7df0402b586e5 Maksim Berezovik <9641650@gmail.com> 1679556354 +0300	merge main: Merge made by the 'recursive' strategy.
+89109b98037a0cee170909e9e9b7df0402b586e5 d728f843deca6261f85eeddb97b3f9f0aaf9d999 Maksim Berezovik <9641650@gmail.com> 1679556405 +0300	merge origin/maksim-berezovik-lesson-5-2: Merge made by the 'recursive' strategy.
+d728f843deca6261f85eeddb97b3f9f0aaf9d999 7f581da22138b09adf65c4988e8af64542510f5e Maksim Berezovik <9641650@gmail.com> 1679557675 +0300	commit: work ver, ver 0.4.3.1
+7f581da22138b09adf65c4988e8af64542510f5e cca36728a56738a7dd8b41780dec8b6d111a816d Maksim Berezovik <9641650@gmail.com> 1679557883 +0300	commit: work ver, ver 0.4.3.1
+cca36728a56738a7dd8b41780dec8b6d111a816d 8a5c4a09d2b4e3058626a8e24516f0314ac49b4b Maksim Berezovik <9641650@gmail.com> 1679558006 +0300	commit: work ver, ver 0.4.3.1
+8a5c4a09d2b4e3058626a8e24516f0314ac49b4b 12c3e115a64fe134e8744d8e703095540185a936 Maksim Berezovik <9641650@gmail.com> 1679558060 +0300	commit: work ver, ver 0.4.3.1
+12c3e115a64fe134e8744d8e703095540185a936 845cc236708f54d3d253ec6725061a172bca7f8e Maksim Berezovik <9641650@gmail.com> 1679558437 +0300	commit: work ver, ver 0.4.3.1
+845cc236708f54d3d253ec6725061a172bca7f8e 396782dcf8497ef2443c28b9386cd2a0ab5225cc Maksim Berezovik <9641650@gmail.com> 1679558774 +0300	commit: work ver, ver 0.4.3.1
+396782dcf8497ef2443c28b9386cd2a0ab5225cc 647436fc90cc5ab5defc398d3fe6814c2ac7cd8b Maksim Berezovik <9641650@gmail.com> 1679559943 +0300	commit: work ver, ver 0.4.3.1
+647436fc90cc5ab5defc398d3fe6814c2ac7cd8b 2fa23db249acb5c3e2ce1e2178cead97602929e1 Maksim Berezovik <9641650@gmail.com> 1679662151 +0300	commit: work ver, ver 0.5.0
+2fa23db249acb5c3e2ce1e2178cead97602929e1 7fb19013af0aa086a23ce376a6fd51c89ca51a9e Maksim Berezovik <9641650@gmail.com> 1679662162 +0300	checkout: moving from maksim-berezovik-lesson-5-2 to main
+7fb19013af0aa086a23ce376a6fd51c89ca51a9e eadff9a6ec81196350ae601b8ac640ff65927abb Maksim Berezovik <9641650@gmail.com> 1679662169 +0300	merge origin/main: Fast-forward
+eadff9a6ec81196350ae601b8ac640ff65927abb 2fa23db249acb5c3e2ce1e2178cead97602929e1 Maksim Berezovik <9641650@gmail.com> 1679662175 +0300	checkout: moving from main to maksim-berezovik-lesson-5-2
+2fa23db249acb5c3e2ce1e2178cead97602929e1 bad25b68b032c9e93652a5cf52313d9aa8418eb6 Maksim Berezovik <9641650@gmail.com> 1679662183 +0300	merge main: Merge made by the 'recursive' strategy.
+bad25b68b032c9e93652a5cf52313d9aa8418eb6 b6617cb93fef294f39debbfb8e3b79243310f36a Maksim Berezovik <9641650@gmail.com> 1679663281 +0300	commit: work ver, ver 0.5.0
+b6617cb93fef294f39debbfb8e3b79243310f36a 4a373fbd86d0792d7f4bff2055b8269460fb453b Maksim Berezovik <9641650@gmail.com> 1679663491 +0300	commit: work ver, ver 0.5.0
+4a373fbd86d0792d7f4bff2055b8269460fb453b 56caf347a6074d06e70d01955bd040f0fb45a30e Maksim Berezovik <9641650@gmail.com> 1679663754 +0300	commit: work ver, ver 0.5.0
+56caf347a6074d06e70d01955bd040f0fb45a30e 51938b8ead42a1afd10b2d9734405c751093af86 Maksim Berezovik <9641650@gmail.com> 1679664218 +0300	commit: work ver, ver 0.5.0
+51938b8ead42a1afd10b2d9734405c751093af86 9887ed2b15a60e8fc8a4349780f8b0b2bb8ffcf7 Maksim Berezovik <9641650@gmail.com> 1679665209 +0300	commit: work ver, ver 0.5.0
+9887ed2b15a60e8fc8a4349780f8b0b2bb8ffcf7 8d1610daf08174ebdda6bb6637bcf63f36852f49 Maksim Berezovik <9641650@gmail.com> 1679680654 +0300	commit: work ver, ver 0.5.0
+8d1610daf08174ebdda6bb6637bcf63f36852f49 9de327dbce4c35b41d645d9e282a1976c8150238 Maksim Berezovik <9641650@gmail.com> 1679680844 +0300	commit: work ver, ver 0.5.0
+9de327dbce4c35b41d645d9e282a1976c8150238 10150039675548c41b431a83746db1756f96e348 Maksim Berezovik <9641650@gmail.com> 1680027340 +0300	commit: work ver, ver 0.5.0
+10150039675548c41b431a83746db1756f96e348 eadff9a6ec81196350ae601b8ac640ff65927abb Maksim Berezovik <9641650@gmail.com> 1680027432 +0300	checkout: moving from maksim-berezovik-lesson-5-2 to main
+eadff9a6ec81196350ae601b8ac640ff65927abb 76b736a54c8fecef571b35ff4abf24e36a3683db Maksim Berezovik <9641650@gmail.com> 1680027445 +0300	merge origin/main: Fast-forward
+76b736a54c8fecef571b35ff4abf24e36a3683db 10150039675548c41b431a83746db1756f96e348 Maksim Berezovik <9641650@gmail.com> 1680027454 +0300	checkout: moving from main to maksim-berezovik-lesson-5-2
+10150039675548c41b431a83746db1756f96e348 65d9206290af0f40d53209f671f2bfa8ecde0f58 Maksim Berezovik <9641650@gmail.com> 1680027460 +0300	merge main: Merge made by the 'recursive' strategy.
+65d9206290af0f40d53209f671f2bfa8ecde0f58 366c7a3bc695d9f3b67a45e99a29838182974f3b Maksim Berezovik <9641650@gmail.com> 1680027803 +0300	commit: work ver, ver 0.5.0
+366c7a3bc695d9f3b67a45e99a29838182974f3b 76b736a54c8fecef571b35ff4abf24e36a3683db Maksim Berezovik <9641650@gmail.com> 1680105790 +0300	checkout: moving from maksim-berezovik-lesson-5-2 to main
+76b736a54c8fecef571b35ff4abf24e36a3683db 76b736a54c8fecef571b35ff4abf24e36a3683db Maksim Berezovik <9641650@gmail.com> 1680105861 +0300	checkout: moving from main to maksim-berezovik-lesson-08
+76b736a54c8fecef571b35ff4abf24e36a3683db 76b736a54c8fecef571b35ff4abf24e36a3683db Maksim Berezovik <9641650@gmail.com> 1680105914 +0300	checkout: moving from maksim-berezovik-lesson-08 to main
+76b736a54c8fecef571b35ff4abf24e36a3683db f5e2157c104b78b514c3c49384c288674d15eb4d Maksim Berezovik <9641650@gmail.com> 1680105922 +0300	merge origin/main: Fast-forward
+f5e2157c104b78b514c3c49384c288674d15eb4d 76b736a54c8fecef571b35ff4abf24e36a3683db Maksim Berezovik <9641650@gmail.com> 1680105931 +0300	checkout: moving from main to maksim-berezovik-lesson-08
+76b736a54c8fecef571b35ff4abf24e36a3683db f5e2157c104b78b514c3c49384c288674d15eb4d Maksim Berezovik <9641650@gmail.com> 1680105939 +0300	merge main: Fast-forward
+f5e2157c104b78b514c3c49384c288674d15eb4d f5e2157c104b78b514c3c49384c288674d15eb4d Maksim Berezovik <9641650@gmail.com> 1680112154 +0300	checkout: moving from maksim-berezovik-lesson-08 to main
+f5e2157c104b78b514c3c49384c288674d15eb4d c66d3832eff26ad54ee2a07d23d36453aec9fa5b Maksim Berezovik <9641650@gmail.com> 1680112173 +0300	merge origin/main: Fast-forward
+c66d3832eff26ad54ee2a07d23d36453aec9fa5b f5e2157c104b78b514c3c49384c288674d15eb4d Maksim Berezovik <9641650@gmail.com> 1680112217 +0300	checkout: moving from main to maksim-berezovik-lesson-08
+f5e2157c104b78b514c3c49384c288674d15eb4d c66d3832eff26ad54ee2a07d23d36453aec9fa5b Maksim Berezovik <9641650@gmail.com> 1680112404 +0300	merge main: Fast-forward
+c66d3832eff26ad54ee2a07d23d36453aec9fa5b fae229b94f07ba878d56fe485c2f23d287330140 Maksim Berezovik <9641650@gmail.com> 1680112862 +0300	commit: rename routing:main
+fae229b94f07ba878d56fe485c2f23d287330140 c66d3832eff26ad54ee2a07d23d36453aec9fa5b Maksim Berezovik <9641650@gmail.com> 1680113172 +0300	checkout: moving from maksim-berezovik-lesson-08 to main
+c66d3832eff26ad54ee2a07d23d36453aec9fa5b 5d8c156fadab46139454450db9631451d71358e6 Maksim Berezovik <9641650@gmail.com> 1680113181 +0300	merge origin/main: Fast-forward
+5d8c156fadab46139454450db9631451d71358e6 5d8c156fadab46139454450db9631451d71358e6 Maksim Berezovik <9641650@gmail.com> 1680113219 +0300	checkout: moving from main to maksim-berezovik-lesson-08-2
+5d8c156fadab46139454450db9631451d71358e6 b113a0a1ec10f339803c25c96681fb9d6d8fd507 Maksim Berezovik <9641650@gmail.com> 1680115930 +0300	commit: refactor code ver 0.0.1
+b113a0a1ec10f339803c25c96681fb9d6d8fd507 590ad7042a2b1f8d6e6853f5633cc84c7f4d30dd Maksim Berezovik <9641650@gmail.com> 1680181573 +0300	commit: refactor code successful
+590ad7042a2b1f8d6e6853f5633cc84c7f4d30dd 5d8c156fadab46139454450db9631451d71358e6 Maksim Berezovik <9641650@gmail.com> 1680181732 +0300	checkout: moving from maksim-berezovik-lesson-08-2 to main
+5d8c156fadab46139454450db9631451d71358e6 4dbdb4e5487d98e1aac198c601f85250b195b646 Maksim Berezovik <9641650@gmail.com> 1680181741 +0300	merge origin/main: Fast-forward
+4dbdb4e5487d98e1aac198c601f85250b195b646 590ad7042a2b1f8d6e6853f5633cc84c7f4d30dd Maksim Berezovik <9641650@gmail.com> 1680181746 +0300	checkout: moving from main to maksim-berezovik-lesson-08-2
+590ad7042a2b1f8d6e6853f5633cc84c7f4d30dd c536851c79f383f462ebc6b48ba813f02115860d Maksim Berezovik <9641650@gmail.com> 1680181752 +0300	merge main: Merge made by the 'recursive' strategy.
+c536851c79f383f462ebc6b48ba813f02115860d 4dbdb4e5487d98e1aac198c601f85250b195b646 Maksim Berezovik <9641650@gmail.com> 1680279341 +0300	checkout: moving from maksim-berezovik-lesson-08-2 to main
+4dbdb4e5487d98e1aac198c601f85250b195b646 35891f50ec5f6868faee7a2c2981f82072eb2008 Maksim Berezovik <9641650@gmail.com> 1680279367 +0300	merge origin/main: Fast-forward
+35891f50ec5f6868faee7a2c2981f82072eb2008 35891f50ec5f6868faee7a2c2981f82072eb2008 Maksim Berezovik <9641650@gmail.com> 1680279406 +0300	checkout: moving from main to maksim-berezovik-lesson-9
+35891f50ec5f6868faee7a2c2981f82072eb2008 17334d7d0bced92370a502a4186f69310a290877 Maksim Berezovik <9641650@gmail.com> 1680284887 +0300	commit: add raise
+17334d7d0bced92370a502a4186f69310a290877 da15271f983454518812181df4609f2262b6b20c Maksim Berezovik <9641650@gmail.com> 1680285346 +0300	commit: add raise
+da15271f983454518812181df4609f2262b6b20c 35891f50ec5f6868faee7a2c2981f82072eb2008 Maksim Berezovik <9641650@gmail.com> 1680708908 +0300	checkout: moving from maksim-berezovik-lesson-9 to main
+35891f50ec5f6868faee7a2c2981f82072eb2008 35891f50ec5f6868faee7a2c2981f82072eb2008 Maksim Berezovik <9641650@gmail.com> 1680708977 +0300	checkout: moving from main to maksim-berezovik-lesson-10
+35891f50ec5f6868faee7a2c2981f82072eb2008 35891f50ec5f6868faee7a2c2981f82072eb2008 Maksim Berezovik <9641650@gmail.com> 1680708985 +0300	checkout: moving from maksim-berezovik-lesson-10 to main
+35891f50ec5f6868faee7a2c2981f82072eb2008 3e4cda1c8d830a529df9a475dec1c1fca1355cee Maksim Berezovik <9641650@gmail.com> 1680708992 +0300	merge origin/main: Fast-forward
+3e4cda1c8d830a529df9a475dec1c1fca1355cee 35891f50ec5f6868faee7a2c2981f82072eb2008 Maksim Berezovik <9641650@gmail.com> 1680709005 +0300	checkout: moving from main to maksim-berezovik-lesson-10
+35891f50ec5f6868faee7a2c2981f82072eb2008 3e4cda1c8d830a529df9a475dec1c1fca1355cee Maksim Berezovik <9641650@gmail.com> 1680709014 +0300	merge main: Fast-forward
+3e4cda1c8d830a529df9a475dec1c1fca1355cee 3e4cda1c8d830a529df9a475dec1c1fca1355cee Maksim Berezovik <9641650@gmail.com> 1680717652 +0300	checkout: moving from maksim-berezovik-lesson-10 to main
+3e4cda1c8d830a529df9a475dec1c1fca1355cee 8a8a42e85b233365c2ec8f91ce470da1b9123410 Maksim Berezovik <9641650@gmail.com> 1680717663 +0300	merge origin/main: Fast-forward
+8a8a42e85b233365c2ec8f91ce470da1b9123410 3e4cda1c8d830a529df9a475dec1c1fca1355cee Maksim Berezovik <9641650@gmail.com> 1680717669 +0300	checkout: moving from main to maksim-berezovik-lesson-10
+3e4cda1c8d830a529df9a475dec1c1fca1355cee 8a8a42e85b233365c2ec8f91ce470da1b9123410 Maksim Berezovik <9641650@gmail.com> 1680717678 +0300	merge main: Fast-forward
+8a8a42e85b233365c2ec8f91ce470da1b9123410 8a8a42e85b233365c2ec8f91ce470da1b9123410 Maksim Berezovik <9641650@gmail.com> 1680718392 +0300	checkout: moving from maksim-berezovik-lesson-10 to main
+8a8a42e85b233365c2ec8f91ce470da1b9123410 0d7e245c591d9ce57b2d9b3ac5440272529d0557 Maksim Berezovik <9641650@gmail.com> 1680718408 +0300	merge origin/main: Fast-forward
+0d7e245c591d9ce57b2d9b3ac5440272529d0557 8a8a42e85b233365c2ec8f91ce470da1b9123410 Maksim Berezovik <9641650@gmail.com> 1680718416 +0300	checkout: moving from main to maksim-berezovik-lesson-10
+8a8a42e85b233365c2ec8f91ce470da1b9123410 0d7e245c591d9ce57b2d9b3ac5440272529d0557 Maksim Berezovik <9641650@gmail.com> 1680718425 +0300	merge main: Fast-forward
+0d7e245c591d9ce57b2d9b3ac5440272529d0557 0d7e245c591d9ce57b2d9b3ac5440272529d0557 Maksim Berezovik <9641650@gmail.com> 1680718509 +0300	checkout: moving from maksim-berezovik-lesson-10 to main
+0d7e245c591d9ce57b2d9b3ac5440272529d0557 1a00ff65139ce47de5dec0f6f00f9d4532893b62 Maksim Berezovik <9641650@gmail.com> 1680718517 +0300	merge origin/main: Fast-forward
+1a00ff65139ce47de5dec0f6f00f9d4532893b62 0d7e245c591d9ce57b2d9b3ac5440272529d0557 Maksim Berezovik <9641650@gmail.com> 1680718522 +0300	checkout: moving from main to maksim-berezovik-lesson-10
+0d7e245c591d9ce57b2d9b3ac5440272529d0557 1a00ff65139ce47de5dec0f6f00f9d4532893b62 Maksim Berezovik <9641650@gmail.com> 1680718526 +0300	merge main: Fast-forward
+1a00ff65139ce47de5dec0f6f00f9d4532893b62 ed843808ee95b1f4f9b4e9dac43f72b6264ff234 Maksim Berezovik <9641650@gmail.com> 1680718709 +0300	commit: add exception UnsupportedPath
+ed843808ee95b1f4f9b4e9dac43f72b6264ff234 1a00ff65139ce47de5dec0f6f00f9d4532893b62 Maksim Berezovik <9641650@gmail.com> 1680718833 +0300	checkout: moving from maksim-berezovik-lesson-10 to main
+1a00ff65139ce47de5dec0f6f00f9d4532893b62 40ad4acb6dd7fcc57d5e57fbadd5076c96184345 Maksim Berezovik <9641650@gmail.com> 1680882534 +0300	merge origin/main: Fast-forward
+40ad4acb6dd7fcc57d5e57fbadd5076c96184345 40ad4acb6dd7fcc57d5e57fbadd5076c96184345 Maksim Berezovik <9641650@gmail.com> 1680889915 +0300	checkout: moving from main to maksim-berezovik-lesson-11
+40ad4acb6dd7fcc57d5e57fbadd5076c96184345 40ad4acb6dd7fcc57d5e57fbadd5076c96184345 Maksim Berezovik <9641650@gmail.com> 1680891885 +0300	checkout: moving from maksim-berezovik-lesson-11 to main
+40ad4acb6dd7fcc57d5e57fbadd5076c96184345 40ad4acb6dd7fcc57d5e57fbadd5076c96184345 Maksim Berezovik <9641650@gmail.com> 1680891931 +0300	checkout: moving from main to maksim-berezovik-lesson-11
+40ad4acb6dd7fcc57d5e57fbadd5076c96184345 40ad4acb6dd7fcc57d5e57fbadd5076c96184345 Maksim Berezovik <9641650@gmail.com> 1680891945 +0300	checkout: moving from maksim-berezovik-lesson-11 to main
+40ad4acb6dd7fcc57d5e57fbadd5076c96184345 40ad4acb6dd7fcc57d5e57fbadd5076c96184345 Maksim Berezovik <9641650@gmail.com> 1680892011 +0300	checkout: moving from main to maksim-berezovik-lesson-11
+40ad4acb6dd7fcc57d5e57fbadd5076c96184345 40ad4acb6dd7fcc57d5e57fbadd5076c96184345 Maksim Berezovik <9641650@gmail.com> 1680892102 +0300	checkout: moving from maksim-berezovik-lesson-11 to main
+40ad4acb6dd7fcc57d5e57fbadd5076c96184345 40ad4acb6dd7fcc57d5e57fbadd5076c96184345 Maksim Berezovik <9641650@gmail.com> 1680892117 +0300	checkout: moving from main to maksim-berezovik-lesson-11
+40ad4acb6dd7fcc57d5e57fbadd5076c96184345 40ad4acb6dd7fcc57d5e57fbadd5076c96184345 Maksim Berezovik <9641650@gmail.com> 1680971497 +0300	checkout: moving from maksim-berezovik-lesson-11 to main
+40ad4acb6dd7fcc57d5e57fbadd5076c96184345 84a0ba59da419226c732ec28eb77edf19fc1025b Maksim Berezovik <9641650@gmail.com> 1680971515 +0300	merge origin/main: Fast-forward
+84a0ba59da419226c732ec28eb77edf19fc1025b 40ad4acb6dd7fcc57d5e57fbadd5076c96184345 Maksim Berezovik <9641650@gmail.com> 1680971525 +0300	checkout: moving from main to maksim-berezovik-lesson-11
+40ad4acb6dd7fcc57d5e57fbadd5076c96184345 84a0ba59da419226c732ec28eb77edf19fc1025b Maksim Berezovik <9641650@gmail.com> 1680971545 +0300	merge main: Fast-forward
+84a0ba59da419226c732ec28eb77edf19fc1025b 0000000000000000000000000000000000000000 Maksim Berezovik <9641650@gmail.com> 1680982741 +0300	Branch: renamed refs/heads/maksim-berezovik-lesson-11 to refs/heads/maksim-berezovik-lesson-11-1
+0000000000000000000000000000000000000000 84a0ba59da419226c732ec28eb77edf19fc1025b Maksim Berezovik <9641650@gmail.com> 1680982741 +0300	Branch: renamed refs/heads/maksim-berezovik-lesson-11 to refs/heads/maksim-berezovik-lesson-11-1
+84a0ba59da419226c732ec28eb77edf19fc1025b f5d15a06e279c10bf6a740a964fe14cbd6275d11 Maksim Berezovik <9641650@gmail.com> 1680982807 +0300	commit: add Response and Requests with BaseModel
+f5d15a06e279c10bf6a740a964fe14cbd6275d11 62d799090eb02a4e178c3e2f2b6404330f30a176 Maksim Berezovik <9641650@gmail.com> 1680983046 +0300	commit: add Response and Requests with BaseModel
+62d799090eb02a4e178c3e2f2b6404330f30a176 009fc34bf72e26886896449db881858000de21cf Maksim Berezovik <9641650@gmail.com> 1680983382 +0300	commit: add Response and Requests with BaseModel
+009fc34bf72e26886896449db881858000de21cf fc2e6c43a1df0b30e406c68856126e12b232f550 Maksim Berezovik <9641650@gmail.com> 1680983731 +0300	commit: add Response and Requests with BaseModel
+fc2e6c43a1df0b30e406c68856126e12b232f550 d304d8fca739b9463f279ecd0245f68ed8b54239 Maksim Berezovik <9641650@gmail.com> 1680983890 +0300	commit: add Response and Requests with BaseModel
+d304d8fca739b9463f279ecd0245f68ed8b54239 84a0ba59da419226c732ec28eb77edf19fc1025b Maksim Berezovik <9641650@gmail.com> 1681111207 +0300	checkout: moving from maksim-berezovik-lesson-11-1 to main
+84a0ba59da419226c732ec28eb77edf19fc1025b a64b7a055e94d5c75b7c9e4f0429339359bdfe77 Maksim Berezovik <9641650@gmail.com> 1681111223 +0300	merge origin/main: Fast-forward
+a64b7a055e94d5c75b7c9e4f0429339359bdfe77 a64b7a055e94d5c75b7c9e4f0429339359bdfe77 Maksim Berezovik <9641650@gmail.com> 1681111255 +0300	checkout: moving from main to maksim-berezovik-lesson-11-2
+a64b7a055e94d5c75b7c9e4f0429339359bdfe77 a64b7a055e94d5c75b7c9e4f0429339359bdfe77 Maksim Berezovik <9641650@gmail.com> 1681135467 +0300	checkout: moving from maksim-berezovik-lesson-11-2 to main
+a64b7a055e94d5c75b7c9e4f0429339359bdfe77 187c119e183e9c2f30abdee6fa8fa567350655a7 Maksim Berezovik <9641650@gmail.com> 1681135474 +0300	merge origin/main: Fast-forward
+187c119e183e9c2f30abdee6fa8fa567350655a7 a64b7a055e94d5c75b7c9e4f0429339359bdfe77 Maksim Berezovik <9641650@gmail.com> 1681135482 +0300	checkout: moving from main to maksim-berezovik-lesson-11-2
+a64b7a055e94d5c75b7c9e4f0429339359bdfe77 187c119e183e9c2f30abdee6fa8fa567350655a7 Maksim Berezovik <9641650@gmail.com> 1681135489 +0300	merge main: Fast-forward
+187c119e183e9c2f30abdee6fa8fa567350655a7 855aece82f3f1a4a4b001c24e829f81a19afdab7 Maksim Berezovik <9641650@gmail.com> 1681135551 +0300	commit: Maksim Berezovik lesson 11 level 2
+855aece82f3f1a4a4b001c24e829f81a19afdab7 b4b12a1278e5a1dcc6c1dc447b7648fe52d39dea Maksim Berezovik <9641650@gmail.com> 1681135722 +0300	commit: Maksim Berezovik lesson 11 level 2
+b4b12a1278e5a1dcc6c1dc447b7648fe52d39dea 62b32ad3e0e17cb3cc4c02edfc500e8991395026 Maksim Berezovik <9641650@gmail.com> 1681197050 +0300	commit: Maksim Berezovik lesson 11 level 2
+62b32ad3e0e17cb3cc4c02edfc500e8991395026 7a1c1ba9f72920dc8185ac6264fd4b932b484175 Maksim Berezovik <9641650@gmail.com> 1681197345 +0300	commit: Maksim Berezovik lesson 11 level 2
+7a1c1ba9f72920dc8185ac6264fd4b932b484175 b2355d0cfd39cf62b368969b93662903e5aed134 Maksim Berezovik <9641650@gmail.com> 1681197860 +0300	commit: Maksim Berezovik lesson 11 level 2
+b2355d0cfd39cf62b368969b93662903e5aed134 9713c390058f947f1bb6b5df4a8f9c301aed8065 Maksim Berezovik <9641650@gmail.com> 1681198608 +0300	commit: Maksim Berezovik lesson 11 level 2
+9713c390058f947f1bb6b5df4a8f9c301aed8065 44310b4b109df3d35aea6141af202ded5d2e968b Maksim Berezovik <9641650@gmail.com> 1681202100 +0300	commit: Maksim Berezovik lesson 11 level 2
+44310b4b109df3d35aea6141af202ded5d2e968b bae642ab76e618625cfa5542ebe0b8f651d8d763 Maksim Berezovik <9641650@gmail.com> 1681202674 +0300	commit: Maksim Berezovik lesson 11 level 2
+bae642ab76e618625cfa5542ebe0b8f651d8d763 da40add2d4fecc51b5ed9f6777dfc36bd2c97c25 Maksim Berezovik <9641650@gmail.com> 1681202892 +0300	commit: Maksim Berezovik lesson 11 level 2
+da40add2d4fecc51b5ed9f6777dfc36bd2c97c25 55d4ae02d38382510557fee3ba82a8192077ee79 Maksim Berezovik <9641650@gmail.com> 1681202973 +0300	commit: Maksim Berezovik lesson 11 level 2
+55d4ae02d38382510557fee3ba82a8192077ee79 fbb59857e118e6bebabdbc899b5574f6145cc701 Maksim Berezovik <9641650@gmail.com> 1681203446 +0300	commit: Maksim Berezovik lesson 11 level 2
+fbb59857e118e6bebabdbc899b5574f6145cc701 a1bb95b1d21ec223de999d8c23527b8482e08782 Maksim Berezovik <9641650@gmail.com> 1681203987 +0300	commit: Maksim Berezovik lesson 11 level 2
+a1bb95b1d21ec223de999d8c23527b8482e08782 d4c00cf10a644a304236c6524a3412ce67413d01 Maksim Berezovik <9641650@gmail.com> 1681204289 +0300	commit: Maksim Berezovik lesson 11 level 2
+d4c00cf10a644a304236c6524a3412ce67413d01 ad2e0ac435bd8810375710b4b54d062756a43425 Maksim Berezovik <9641650@gmail.com> 1681204618 +0300	commit: Maksim Berezovik lesson 11 level 2
+ad2e0ac435bd8810375710b4b54d062756a43425 2767a063c05d7bd0ace4ad716be1896387b4011c Maksim Berezovik <9641650@gmail.com> 1681205695 +0300	commit: Maksim Berezovik lesson 11 level 2
+2767a063c05d7bd0ace4ad716be1896387b4011c 55140be4821eb136870a62953d66eceaf7df6cef Maksim Berezovik <9641650@gmail.com> 1681282643 +0300	commit: removed db
+55140be4821eb136870a62953d66eceaf7df6cef 7eebda6b2ae321aa6433f2f75563d7d62c66b47e Maksim Berezovik <9641650@gmail.com> 1681315395 +0300	commit: Maksim Berezovik lesson 11 level 2
+7eebda6b2ae321aa6433f2f75563d7d62c66b47e 259b3a69253c88f6d8a3bbd971154214c4d7f34b Maksim Berezovik <9641650@gmail.com> 1681318564 +0300	commit: Maksim Berezovik lesson 11 level 2
+259b3a69253c88f6d8a3bbd971154214c4d7f34b a34a8822d88bdd0c84f5a98e35acb26f08c77518 Maksim Berezovik <9641650@gmail.com> 1681318752 +0300	commit: Maksim Berezovik lesson 11 level 2
+a34a8822d88bdd0c84f5a98e35acb26f08c77518 08d09ce2c10a1d0866be0114432eed7a9367e0be Maksim Berezovik <9641650@gmail.com> 1681320744 +0300	commit: Maksim Berezovik lesson 11 level 2
+08d09ce2c10a1d0866be0114432eed7a9367e0be 0674769bf4f4c5d9742650b4f2752e197094aaf7 Maksim Berezovik <9641650@gmail.com> 1681320890 +0300	commit: Maksim Berezovik lesson 11 level 2
+0674769bf4f4c5d9742650b4f2752e197094aaf7 1839a562d147c08e7e8b7ad58de9f56464ac6c0d Maksim Berezovik <9641650@gmail.com> 1681320904 +0300	commit: Maksim Berezovik lesson 11 level 2
+1839a562d147c08e7e8b7ad58de9f56464ac6c0d a04f6bbdc3b1662d06e2773fb5b2372cd6a51d81 Maksim Berezovik <9641650@gmail.com> 1681321101 +0300	commit: Maksim Berezovik lesson 11 level 2
+a04f6bbdc3b1662d06e2773fb5b2372cd6a51d81 400f7354f231f65fa3d39ea193f62a7019926ccc Maksim Berezovik <9641650@gmail.com> 1681322511 +0300	commit: Maksim Berezovik lesson 11 level 2
+400f7354f231f65fa3d39ea193f62a7019926ccc 820492dee6d0068774d46b5eb5b997f206ed9a26 Maksim Berezovik <9641650@gmail.com> 1681323669 +0300	commit: Maksim Berezovik lesson 11 level 2
+820492dee6d0068774d46b5eb5b997f206ed9a26 157a6ff50ef9eed9d6455f3062159bc470c7ccce Maksim Berezovik <9641650@gmail.com> 1681323896 +0300	commit: Maksim Berezovik lesson 11 level 2
+157a6ff50ef9eed9d6455f3062159bc470c7ccce e7fa3e99258def28170054a863bda258b33ca234 Maksim Berezovik <9641650@gmail.com> 1681324040 +0300	commit: Maksim Berezovik lesson 11 level 2
+e7fa3e99258def28170054a863bda258b33ca234 43f69f19a86d420a65c28f99521ffa5368eaa5e0 Maksim Berezovik <9641650@gmail.com> 1681325166 +0300	commit: ci:integration
+43f69f19a86d420a65c28f99521ffa5368eaa5e0 909bbb72f2bf695eadbe25978eb83c396b23adcd Maksim Berezovik <9641650@gmail.com> 1681394026 +0300	commit: ci:integration
+909bbb72f2bf695eadbe25978eb83c396b23adcd 187c119e183e9c2f30abdee6fa8fa567350655a7 Maksim Berezovik <9641650@gmail.com> 1681394882 +0300	checkout: moving from maksim-berezovik-lesson-11-2 to main
+187c119e183e9c2f30abdee6fa8fa567350655a7 8ee65f987f453ecd0f25a1b7aedb648025c329cf Maksim Berezovik <9641650@gmail.com> 1681394895 +0300	merge origin/main: Fast-forward
+8ee65f987f453ecd0f25a1b7aedb648025c329cf 909bbb72f2bf695eadbe25978eb83c396b23adcd Maksim Berezovik <9641650@gmail.com> 1681395168 +0300	checkout: moving from main to maksim-berezovik-lesson-11-2
+909bbb72f2bf695eadbe25978eb83c396b23adcd 98f4952ceead2322e2ea56f4e7e46d737b454651 Maksim Berezovik <9641650@gmail.com> 1681395669 +0300	merge main: Merge made by the 'recursive' strategy.
+98f4952ceead2322e2ea56f4e7e46d737b454651 8ee65f987f453ecd0f25a1b7aedb648025c329cf Maksim Berezovik <9641650@gmail.com> 1681488208 +0300	checkout: moving from maksim-berezovik-lesson-11-2 to main
+8ee65f987f453ecd0f25a1b7aedb648025c329cf cabad2b25f2434256d85e213c5c26a9dc61c49da Maksim Berezovik <9641650@gmail.com> 1681488223 +0300	merge origin/main: Fast-forward
+cabad2b25f2434256d85e213c5c26a9dc61c49da cabad2b25f2434256d85e213c5c26a9dc61c49da Maksim Berezovik <9641650@gmail.com> 1681488245 +0300	checkout: moving from main to maksim-berezovik-lesson-13
+cabad2b25f2434256d85e213c5c26a9dc61c49da cabad2b25f2434256d85e213c5c26a9dc61c49da Maksim Berezovik <9641650@gmail.com> 1681638484 +0300	checkout: moving from maksim-berezovik-lesson-13 to main
+cabad2b25f2434256d85e213c5c26a9dc61c49da b05945f0e64ba61d5ebaf8bfdb2bba2bd72328d2 Maksim Berezovik <9641650@gmail.com> 1681638497 +0300	merge origin/main: Fast-forward
+b05945f0e64ba61d5ebaf8bfdb2bba2bd72328d2 cabad2b25f2434256d85e213c5c26a9dc61c49da Maksim Berezovik <9641650@gmail.com> 1681638506 +0300	checkout: moving from main to maksim-berezovik-lesson-13
+cabad2b25f2434256d85e213c5c26a9dc61c49da b05945f0e64ba61d5ebaf8bfdb2bba2bd72328d2 Maksim Berezovik <9641650@gmail.com> 1681638512 +0300	merge main: Fast-forward
+b05945f0e64ba61d5ebaf8bfdb2bba2bd72328d2 f1222d133ab64d3aaf48f1ca6dd8ba8d29cbff07 Maksim Berezovik <9641650@gmail.com> 1681641838 +0300	commit: closes #161
+f1222d133ab64d3aaf48f1ca6dd8ba8d29cbff07 b05945f0e64ba61d5ebaf8bfdb2bba2bd72328d2 Maksim Berezovik <9641650@gmail.com> 1681923576 +0300	checkout: moving from maksim-berezovik-lesson-13 to main
+b05945f0e64ba61d5ebaf8bfdb2bba2bd72328d2 2ebc88a62c503969875e37fb221ceb0e0030287c Maksim Berezovik <9641650@gmail.com> 1681923586 +0300	merge origin/main: Fast-forward
+2ebc88a62c503969875e37fb221ceb0e0030287c 2ebc88a62c503969875e37fb221ceb0e0030287c Maksim Berezovik <9641650@gmail.com> 1681925266 +0300	checkout: moving from main to Maksim_Berezovik_lesson_14
+2ebc88a62c503969875e37fb221ceb0e0030287c 2ebc88a62c503969875e37fb221ceb0e0030287c Maksim Berezovik <9641650@gmail.com> 1681998606 +0300	checkout: moving from Maksim_Berezovik_lesson_14 to main
+2ebc88a62c503969875e37fb221ceb0e0030287c 2ebc88a62c503969875e37fb221ceb0e0030287c Maksim Berezovik <9641650@gmail.com> 1681998635 +0300	checkout: moving from main to maksim_berezovik_lesson_14
+2ebc88a62c503969875e37fb221ceb0e0030287c 2ebc88a62c503969875e37fb221ceb0e0030287c Maksim Berezovik <9641650@gmail.com> 1681998716 +0300	checkout: moving from maksim_berezovik_lesson_14 to main
+2ebc88a62c503969875e37fb221ceb0e0030287c 35f647f3a6c7adc8e6b219066865bccf792895cd Maksim Berezovik <9641650@gmail.com> 1681998727 +0300	merge origin/main: Fast-forward
+35f647f3a6c7adc8e6b219066865bccf792895cd 2ebc88a62c503969875e37fb221ceb0e0030287c Maksim Berezovik <9641650@gmail.com> 1681998748 +0300	checkout: moving from main to maksim_berezovik_lesson_14
+2ebc88a62c503969875e37fb221ceb0e0030287c 35f647f3a6c7adc8e6b219066865bccf792895cd Maksim Berezovik <9641650@gmail.com> 1681998755 +0300	merge main: Fast-forward
+35f647f3a6c7adc8e6b219066865bccf792895cd 45eef0323438a7b979479d1280f461bd9073b901 Maksim Berezovik <9641650@gmail.com> 1682076557 +0300	commit: FastAPI used
+45eef0323438a7b979479d1280f461bd9073b901 35f647f3a6c7adc8e6b219066865bccf792895cd Maksim Berezovik <9641650@gmail.com> 1682092843 +0300	checkout: moving from maksim_berezovik_lesson_14 to main
+35f647f3a6c7adc8e6b219066865bccf792895cd 45eef0323438a7b979479d1280f461bd9073b901 Maksim Berezovik <9641650@gmail.com> 1682092898 +0300	checkout: moving from main to maksim_berezovik_lesson_14
+45eef0323438a7b979479d1280f461bd9073b901 35f647f3a6c7adc8e6b219066865bccf792895cd Maksim Berezovik <9641650@gmail.com> 1682092911 +0300	checkout: moving from maksim_berezovik_lesson_14 to main
+35f647f3a6c7adc8e6b219066865bccf792895cd 3b5ed3519162a4830296cc42b65227cdf0aa369e Maksim Berezovik <9641650@gmail.com> 1682092921 +0300	merge origin/main: Fast-forward
+3b5ed3519162a4830296cc42b65227cdf0aa369e 45eef0323438a7b979479d1280f461bd9073b901 Maksim Berezovik <9641650@gmail.com> 1682092928 +0300	checkout: moving from main to maksim_berezovik_lesson_14
+45eef0323438a7b979479d1280f461bd9073b901 32aa48c52eee7c6b38b5d83ea36f9458db62961d Maksim Berezovik <9641650@gmail.com> 1682092932 +0300	merge main: Merge made by the 'ort' strategy.
+32aa48c52eee7c6b38b5d83ea36f9458db62961d 3b5ed3519162a4830296cc42b65227cdf0aa369e Maksim Berezovik <9641650@gmail.com> 1682093117 +0300	checkout: moving from maksim_berezovik_lesson_14 to main
+3b5ed3519162a4830296cc42b65227cdf0aa369e 4207b9b0543b4c3935aabefcc070e211318e6c3f Maksim Berezovik <9641650@gmail.com> 1682093130 +0300	merge origin/main: Fast-forward
+4207b9b0543b4c3935aabefcc070e211318e6c3f 4207b9b0543b4c3935aabefcc070e211318e6c3f Maksim Berezovik <9641650@gmail.com> 1682093153 +0300	checkout: moving from main to maksim_berezovik_lesson_15
+4207b9b0543b4c3935aabefcc070e211318e6c3f 4207b9b0543b4c3935aabefcc070e211318e6c3f Maksim Berezovik <9641650@gmail.com> 1682953111 +0300	checkout: moving from maksim_berezovik_lesson_15 to main
+4207b9b0543b4c3935aabefcc070e211318e6c3f 50d3f12108c5ed7315c0a4708f99521366d002a3 Maksim Berezovik <9641650@gmail.com> 1682953123 +0300	merge origin/main: Fast-forward
+50d3f12108c5ed7315c0a4708f99521366d002a3 4207b9b0543b4c3935aabefcc070e211318e6c3f Maksim Berezovik <9641650@gmail.com> 1682953220 +0300	checkout: moving from main to maksim_berezovik_lesson_15
+4207b9b0543b4c3935aabefcc070e211318e6c3f 50d3f12108c5ed7315c0a4708f99521366d002a3 Maksim Berezovik <9641650@gmail.com> 1682953235 +0300	merge main: Fast-forward
+50d3f12108c5ed7315c0a4708f99521366d002a3 b9401829c88482d13d5bb6ab018627c07e6e9d1a Maksim Berezovik <9641650@gmail.com> 1682955094 +0300	commit: Django app created
+b9401829c88482d13d5bb6ab018627c07e6e9d1a 014f2f8861bb9dca9588ba77e118473fd13fe90e Maksim Berezovik <9641650@gmail.com> 1683028455 +0300	merge origin/maksim_berezovik_lesson_15: Fast-forward
+014f2f8861bb9dca9588ba77e118473fd13fe90e ff05df08dcf7025f383688cd42982a0cfe2f5bb1 Maksim Berezovik <9641650@gmail.com> 1683028512 +0300	commit: Django app created
+ff05df08dcf7025f383688cd42982a0cfe2f5bb1 03a83f2b6afc5c403d0729bfcdcc2c2ce01503fb Maksim Berezovik <9641650@gmail.com> 1683130355 +0300	commit: tests added
+03a83f2b6afc5c403d0729bfcdcc2c2ce01503fb 2e64b89ba6e20955dbac576daa766344b5929cff Maksim Berezovik <9641650@gmail.com> 1683131399 +0300	commit: tests added
+2e64b89ba6e20955dbac576daa766344b5929cff 50d3f12108c5ed7315c0a4708f99521366d002a3 Maksim Berezovik <9641650@gmail.com> 1683131693 +0300	checkout: moving from maksim_berezovik_lesson_15 to main
+50d3f12108c5ed7315c0a4708f99521366d002a3 7ecf84f453e5889f6675376552a4d09fc04d34ce Maksim Berezovik <9641650@gmail.com> 1683131700 +0300	merge origin/main: Fast-forward
+7ecf84f453e5889f6675376552a4d09fc04d34ce 2e64b89ba6e20955dbac576daa766344b5929cff Maksim Berezovik <9641650@gmail.com> 1683131721 +0300	checkout: moving from main to maksim_berezovik_lesson_15
+2e64b89ba6e20955dbac576daa766344b5929cff 3827a26d0a45444f5cfc74d7186dd57d27428eee Maksim Berezovik <9641650@gmail.com> 1683132146 +0300	commit (merge): Merge branch 'main' into maksim_berezovik_lesson_15
+3827a26d0a45444f5cfc74d7186dd57d27428eee 5c82f9e541b70c662f7b8a07d04540163fd985d0 Maksim Berezovik <9641650@gmail.com> 1683132151 +0300	merge origin/maksim_berezovik_lesson_15: Merge made by the 'ort' strategy.
+5c82f9e541b70c662f7b8a07d04540163fd985d0 7ecf84f453e5889f6675376552a4d09fc04d34ce Maksim Berezovik <9641650@gmail.com> 1683206011 +0300	checkout: moving from maksim_berezovik_lesson_15 to main
+7ecf84f453e5889f6675376552a4d09fc04d34ce f921874f1e5865da1b0a6308b126bb3d5528cb90 Maksim Berezovik <9641650@gmail.com> 1683206023 +0300	merge origin/main: Fast-forward
+f921874f1e5865da1b0a6308b126bb3d5528cb90 f921874f1e5865da1b0a6308b126bb3d5528cb90 Maksim Berezovik <9641650@gmail.com> 1683206054 +0300	checkout: moving from main to maksim_berezovik_lesson_17
+f921874f1e5865da1b0a6308b126bb3d5528cb90 fb185d08110befeeded73ced2e3a6c42127aad5f Maksim Berezovik <9641650@gmail.com> 1683212287 +0300	commit: transfer Contacts to Django
+fb185d08110befeeded73ced2e3a6c42127aad5f 6ca3b06fe7a091289462abb9c65acd93b4ce9e64 Maksim Berezovik <9641650@gmail.com> 1683312619 +0300	commit: transfer Contacts to Django
+6ca3b06fe7a091289462abb9c65acd93b4ce9e64 f921874f1e5865da1b0a6308b126bb3d5528cb90 Maksim Berezovik <9641650@gmail.com> 1683454596 +0300	checkout: moving from maksim_berezovik_lesson_17 to main
+f921874f1e5865da1b0a6308b126bb3d5528cb90 3752ff5351e57e2a369443b3c9a9727fdc872678 Maksim Berezovik <9641650@gmail.com> 1683454607 +0300	merge origin/main: Fast-forward
+3752ff5351e57e2a369443b3c9a9727fdc872678 6ca3b06fe7a091289462abb9c65acd93b4ce9e64 Maksim Berezovik <9641650@gmail.com> 1683455374 +0300	checkout: moving from main to maksim_berezovik_lesson_17
+6ca3b06fe7a091289462abb9c65acd93b4ce9e64 256a5d01257885cc47d5a0471a3b05cbab5d9192 Maksim Berezovik <9641650@gmail.com> 1683455381 +0300	merge main: Merge made by the 'ort' strategy.
+256a5d01257885cc47d5a0471a3b05cbab5d9192 b1b5163df5e01f9b496712a669ec45211b505910 Maksim Berezovik <9641650@gmail.com> 1683807022 +0300	commit: class Contacts(View)
+b1b5163df5e01f9b496712a669ec45211b505910 2013443c9ab8f9ed408b41ecfb3d61cd55ee3348 Maksim Berezovik <9641650@gmail.com> 1683909114 +0300	commit: class Contacts(View)
+2013443c9ab8f9ed408b41ecfb3d61cd55ee3348 4b630572b05265985ab811433db4510e388d1654 Maksim Berezovik <9641650@gmail.com> 1683910114 +0300	commit: class Contacts(View)
+4b630572b05265985ab811433db4510e388d1654 f6325636346e068e614ee7ccc55d6ada14d90005 Maksim Berezovik <9641650@gmail.com> 1683910161 +0300	merge origin/maksim_berezovik_lesson_17: Merge made by the 'ort' strategy.
+f6325636346e068e614ee7ccc55d6ada14d90005 31e609b61a358676264a450a369905d6ab6fb887 Maksim Berezovik <9641650@gmail.com> 1683910414 +0300	commit: class Contacts(View)
+31e609b61a358676264a450a369905d6ab6fb887 3752ff5351e57e2a369443b3c9a9727fdc872678 Maksim Berezovik <9641650@gmail.com> 1686141178 +0300	checkout: moving from maksim_berezovik_lesson_17 to main
+3752ff5351e57e2a369443b3c9a9727fdc872678 6ef532ce519f95a23be598b2447fe42f467ef382 Maksim Berezovik <9641650@gmail.com> 1686141200 +0300	merge origin/main: Fast-forward

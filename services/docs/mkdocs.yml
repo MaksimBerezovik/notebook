@@ -1,0 +1,54 @@
+site_name: 'M-PT1-63-23'
+site_url: 'https://m-pt1-63-23.sidorov.dev'
+repo_url: 'https://github.com/alexander-sidorov/m-pt1-63-23'
+site_author: 'M-PT1-63-23'
+
+dev_addr: '0.0.0.0:8000'
+site_dir: '.local/mkdocs/site/'
+
+nav:
+  - 'Главная': 'index.md'
+  - 'Курс':
+      - 'Программа': 'schedule/program.md'
+      - 'Занятия':
+          - 'Занятие 1': 'schedule/lessons/01.md'
+          - 'Занятие 2': 'schedule/lessons/02.md'
+          - 'Занятие 3': 'schedule/lessons/03.md'
+          - 'Занятие 4': 'schedule/lessons/04.md'
+          - 'Занятие 5': 'schedule/lessons/05.md'
+          - 'Занятие 6': 'schedule/lessons/06.md'
+          - 'Занятие 7': 'schedule/lessons/07.md'
+          - 'Занятие 8': 'schedule/lessons/08.md'
+          - 'Занятие 9': 'schedule/lessons/09.md'
+
+theme:
+  name: 'material'
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      primary: green
+      accent: orange
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      primary: teal
+      accent: yellow
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+  features:
+    - 'navigation.instant'
+    - 'navigation.sections'
+    - 'navigation.tabs'
+    - 'navigation.tracking'
+
+
+markdown_extensions:
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde

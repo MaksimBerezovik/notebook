@@ -1,0 +1,36 @@
+{% extends 'app_alexander_sidorov/base.html' %}
+{% block title%}{{ object.name }}{% endblock title%}
+
+{% block style %}
+.tag {
+    padding: 2px;
+    border: 1px #c05025 solid;
+    background-color: #f1500b;
+    color: #fefcfb;
+}
+{% endblock style %}
+
+{% block content %}
+<p><a href="/alexander_sidorov/contacts/">&lt;&lt;&lt; назад на все контакты</a></p>
+
+<h1>{{ object.name }}</h1>
+<p>
+    {% for tag in object.tag_set.all %}
+    <span class="tag">{{ tag.label }}</span>
+    {% endfor %}
+</p>
+<hr>
+<p>Телефон: {{ object.phone }}</p>
+
+<h2>Адреса</h2>
+<ol>
+    {% for addr in object.address_set.all %}
+    <li>{{addr.city}} {{addr.street}}</li>
+    {% endfor %}
+</ol>
+
+<p><a href="/alexander_sidorov/contacts/{{ object.pk }}/edit/">Редактировать</a></p>
+
+<p><a href="/alexander_sidorov/contacts/{{ object.pk }}/delete/">Удалить</a></p>
+
+{% endblock content %}

@@ -1,0 +1,143 @@
+version: '3.9'
+services:
+  httpd:
+    build:
+      args:
+        - PORT_HTTP=${HTTPD_PORT_HTTP}
+        - PORT_SSL_HTTPS=${HTTPD_PORT_SSL_HTTPS}
+        - VERSION=${HTTPD_VERSION}
+      context: ./services/httpd/
+    container_name: m63.httpd
+    depends_on:
+      webapp:
+        condition: service_healthy
+    env_file:
+      - .env
+    image: m63.httpd:${HTTPD_VERSION}
+    networks:
+      - m63
+    ports:
+      - "${HTTPD_PORT_HTTP}:${HTTPD_PORT_HTTP}"
+      - "${HTTPD_PORT_SSL_HTTPS}:${HTTPD_PORT_SSL_HTTPS}"
+    volumes:
+      - ./.local/services/acme/certs/:/etc/letsencrypt/:ro
+      - ./.local/services/acme/challenges/:/acme-challenges/:ro
+
+  acme:
+    build:
+      args:
+        - VERSION=${ACME_VERSION}
+      context: ./services/acme/
+    container_name: m63.acme
+    env_file:
+      - .env
+    environment:
+      - RENEW_COOLDOWN=${ACME_RENEW_COOLDOWN}
+    image: m63.acme:${ACME_VERSION}
+    networks:
+      - m63
+    volumes:
+      - ./.local/services/acme/certs/:/etc/letsencrypt/:rw
+      - ./.local/services/acme/challenges/:/acme-challenges/:rw
+
+  webapp:
+    build:
+      args:
+        - PIP_VERSION=${WEBAPP_PIP_VERSION}
+        - POETRY_VERSION=${WEBAPP_POETRY_VERSION}
+        - PYTHON_VERSION=${WEBAPP_PYTHON_VERSION}
+        - VERSION=${WEBAPP_VERSION}
+      context: ./services/webapp/
+    container_name: m63.webapp
+    depends_on:
+      db:
+        condition: service_healthy
+    entrypoint: [ task, run-server-prod ]
+    env_file:
+      - .env
+    environment:
+      DATABASE_URL: ${WEBAPP_DATABASE_URL}
+      ENVIRONMENT: ${WEBAPP_ENVIRONMENT}
+      MODE_DEBUG: ${WEBAPP_MODE_DEBUG}
+      MODE_TESTING: ${WEBAPP_MODE_TESTING}
+      PORT: 80
+      SECRET_KEY: ${WEBAPP_SECRET_KEY}
+      SENTRY_DSN: ${WEBAPP_SENTRY_DSN}
+      TEST_SERVICE_URL: ${WEBAPP_TEST_SERVICE_URL}
+      VERSION: ${WEBAPP_VERSION}
+    image: m63.webapp:${WEBAPP_VERSION}
+    init: true
+    networks:
+      - m63
+    expose:
+      - "80"
+    tmpfs:
+      - /app/.local/:mode=777,size=10m,uid=9999,gid=9999
+
+  db:
+    build:
+      args:
+        - VERSION=${DB_VERSION}
+      context: ./services/db/
+    container_name: m63.db
+    env_file:
+      - .env
+    environment:
+      POSTGRES_DB: ${DB_DATABASE}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+      POSTGRES_USER: ${DB_USERNAME}
+    image: m63.db:${DB_VERSION}
+    init: true
+    expose:
+      - "5432"
+    networks:
+      - m63
+    volumes:
+      - ./.local/services/db/data/:/var/lib/postgresql/data/:rw
+
+  dba:
+    build:
+      args:
+        - VERSION=${DBA_VERSION}
+      context: ./services/dba/
+    container_name: m63.dba
+    depends_on:
+      db:
+        condition: service_healthy
+    env_file:
+      - .env
+    environment:
+      PGADMIN_DEFAULT_EMAIL: ${DBA_ADMIN_EMAIL}
+      PGADMIN_DEFAULT_PASSWORD: ${DBA_ADMIN_PASSWORD}
+    image: m63.dba:${DBA_VERSION}
+    expose:
+      - "80"
+    networks:
+      - m63
+    volumes:
+      - ./.local/services/dba/var/lib/pgadmin/:/var/lib/pgadmin/:rw
+      - ./.local/services/dba/var/log/pgadmin/:/var/log/pgadmin/:rw
+
+  docs:
+    build:
+      args:
+        - PIP_VERSION=${DOCS_PIP_VERSION}
+        - POETRY_VERSION=${DOCS_POETRY_VERSION}
+        - PYTHON_VERSION=${DOCS_PYTHON_VERSION}
+        - VERSION=${DOCS_VERSION}
+      context: ./services/docs/
+    container_name: m63.docs
+    entrypoint: [ task, run-server-dev ]
+    env_file:
+      - .env
+    image: m63.docs:${DOCS_VERSION}
+    init: true
+    networks:
+      - m63
+    expose:
+      - "8000"
+
+networks:
+  m63:
+    name: m63.local
+    driver: bridge

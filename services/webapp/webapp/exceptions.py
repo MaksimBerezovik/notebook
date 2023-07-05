@@ -1,0 +1,2 @@
+class UnsupportedPath(RuntimeError):
+    pass

@@ -1,0 +1,163 @@
+{
+	"info": {
+		"_postman_id": "396dbbf8-b64c-4165-b398-5d28d254fbe7",
+		"name": "Req for contacts",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26799061"
+	},
+	"item": [
+		{
+			"name": "View contact",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8000/~/maksim_berezovik/contacts",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"~",
+						"maksim_berezovik",
+						"contacts"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Contact id",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8000/~/maksim_berezovik/contacts/2706497162",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"~",
+						"maksim_berezovik",
+						"contacts",
+						"2706497162"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create Contact",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "name",
+							"value": "Goha Igorevich",
+							"type": "text"
+						},
+						{
+							"key": "phone",
+							"value": "+375335555555",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:8000/~/maksim_berezovik/contacts",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"~",
+						"maksim_berezovik",
+						"contacts"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update contact",
+			"request": {
+				"method": "PATCH",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "name",
+							"value": "Oleg Olegovich",
+							"type": "text"
+						},
+						{
+							"key": "phone",
+							"value": "+375291234555",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:8000/~/maksim_berezovik/contacts/1380241110",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"~",
+						"maksim_berezovik",
+						"contacts",
+						"1380241110"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete contact",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "name",
+							"value": "Vlad Igor",
+							"type": "text"
+						},
+						{
+							"key": "phone",
+							"value": "+375291234555",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:8000/~/maksim_berezovik/contacts/4149328608",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"~",
+						"maksim_berezovik",
+						"contacts",
+						"4149328608"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

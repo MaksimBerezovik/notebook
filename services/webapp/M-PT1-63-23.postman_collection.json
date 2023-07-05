@@ -1,0 +1,890 @@
+{
+	"info": {
+		"_postman_id": "f6203091-23fc-4872-8e0d-5addfd331f58",
+		"name": "M-PT1-63-23",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "9218160"
+	},
+	"item": [
+		{
+			"name": "dev server",
+			"item": [
+				{
+					"name": "get /",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{dev}}",
+							"host": [
+								"{{dev}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get /~/{{user}}",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{dev}}/~/{{user}}",
+							"host": [
+								"{{dev}}"
+							],
+							"path": [
+								"~",
+								"{{user}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get /~/{{user}}/",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{dev}}/~/{{user}}/",
+							"host": [
+								"{{dev}}"
+							],
+							"path": [
+								"~",
+								"{{user}}",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get /~/{{user}}/?name=xxx",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{dev}}/~/{{user}}/?name=xxx",
+							"host": [
+								"{{dev}}"
+							],
+							"path": [
+								"~",
+								"{{user}}",
+								""
+							],
+							"query": [
+								{
+									"key": "name",
+									"value": "xxx"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get /~/{{user}}/lesson05/list/append/",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{dev}}/~/{{user}}/lesson05/list/append/?obj=[1,\"a\",true,null]&args=[\"b\"]",
+							"host": [
+								"{{dev}}"
+							],
+							"path": [
+								"~",
+								"{{user}}",
+								"lesson05",
+								"list",
+								"append",
+								""
+							],
+							"query": [
+								{
+									"key": "obj",
+									"value": "[1,\"a\",true,null]"
+								},
+								{
+									"key": "args",
+									"value": "[\"b\"]"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get /~/{{user}}/lesson05/list/index/",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{dev}}/~/{{user}}/lesson05/list/index/?obj=[1,\"a\",true,null,[]]&args=[[]]",
+							"host": [
+								"{{dev}}"
+							],
+							"path": [
+								"~",
+								"{{user}}",
+								"lesson05",
+								"list",
+								"index",
+								""
+							],
+							"query": [
+								{
+									"key": "obj",
+									"value": "[1,\"a\",true,null,[]]"
+								},
+								{
+									"key": "args",
+									"value": "[[]]"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get /~/{{user}}/lesson05/dict/get/",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{dev}}/~/{{user}}/lesson05/dict/get/?obj={\"a\":1, \"b\":2}&args=[\"a\"]",
+							"host": [
+								"{{dev}}"
+							],
+							"path": [
+								"~",
+								"{{user}}",
+								"lesson05",
+								"dict",
+								"get",
+								""
+							],
+							"query": [
+								{
+									"key": "obj",
+									"value": "{\"a\":1, \"b\":2}"
+								},
+								{
+									"key": "args",
+									"value": "[\"a\"]"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get /~/{{user}}/lesson05/dict/clear/",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{dev}}/~/{{user}}/lesson05/dict/clear/?obj={\"a\":1, \"b\":2}&args=[]",
+							"host": [
+								"{{dev}}"
+							],
+							"path": [
+								"~",
+								"{{user}}",
+								"lesson05",
+								"dict",
+								"clear",
+								""
+							],
+							"query": [
+								{
+									"key": "obj",
+									"value": "{\"a\":1, \"b\":2}"
+								},
+								{
+									"key": "args",
+									"value": "[]"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get /~/{{user}}/lesson05/str/index/",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{dev}}/~/{{user}}/lesson05/str/index/?obj=\"abcde\"&args=[\"c\"]",
+							"host": [
+								"{{dev}}"
+							],
+							"path": [
+								"~",
+								"{{user}}",
+								"lesson05",
+								"str",
+								"index",
+								""
+							],
+							"query": [
+								{
+									"key": "obj",
+									"value": "\"abcde\""
+								},
+								{
+									"key": "args",
+									"value": "[\"c\"]"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get /~/{{user}}/lesson05/str/title/",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{dev}}/~/{{user}}/lesson05/str/title/?obj=\"ab cd ße\"&args=[]",
+							"host": [
+								"{{dev}}"
+							],
+							"path": [
+								"~",
+								"{{user}}",
+								"lesson05",
+								"str",
+								"title",
+								""
+							],
+							"query": [
+								{
+									"key": "obj",
+									"value": "\"ab cd ße\""
+								},
+								{
+									"key": "args",
+									"value": "[]"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "contacts - get all",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{dev}}/~/{{user}}/contacts/",
+							"host": [
+								"{{dev}}"
+							],
+							"path": [
+								"~",
+								"{{user}}",
+								"contacts",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "contacts - get one by id",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{dev}}/~/{{user}}/contacts/1",
+							"host": [
+								"{{dev}}"
+							],
+							"path": [
+								"~",
+								"{{user}}",
+								"contacts",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "contacts - get all - find by name",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{dev}}/~/{{user}}/contacts/?name=a",
+							"host": [
+								"{{dev}}"
+							],
+							"path": [
+								"~",
+								"{{user}}",
+								"contacts",
+								""
+							],
+							"query": [
+								{
+									"key": "name",
+									"value": "a"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "contacts - create new",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"name\": \"new contact 1\",\n    \"phone\": \"+1\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{dev}}/~/{{user}}/contacts/",
+							"host": [
+								"{{dev}}"
+							],
+							"path": [
+								"~",
+								"{{user}}",
+								"contacts",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "contacts - update existing one",
+					"request": {
+						"method": "PATCH",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"name\": \"new contact 1\",\n    \"phone\": \"+12\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{dev}}/~/{{user}}/contacts/1",
+							"host": [
+								"{{dev}}"
+							],
+							"path": [
+								"~",
+								"{{user}}",
+								"contacts",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "contacts - delete one",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "{{dev}}/~/{{user}}/contacts/1",
+							"host": [
+								"{{dev}}"
+							],
+							"path": [
+								"~",
+								"{{user}}",
+								"contacts",
+								"1"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "prod server",
+			"item": [
+				{
+					"name": "get /",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{prod}}",
+							"host": [
+								"{{prod}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get /~/{{user}}",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{prod}}/~/{{user}}",
+							"host": [
+								"{{prod}}"
+							],
+							"path": [
+								"~",
+								"{{user}}"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get /~/{{user}}/",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{prod}}/~/{{user}}/",
+							"host": [
+								"{{prod}}"
+							],
+							"path": [
+								"~",
+								"{{user}}",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get /~/{{user}}/?name=xxx",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{prod}}/~/{{user}}/?name=xxx",
+							"host": [
+								"{{prod}}"
+							],
+							"path": [
+								"~",
+								"{{user}}",
+								""
+							],
+							"query": [
+								{
+									"key": "name",
+									"value": "xxx"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get /~/{{user}}/lesson05/list/append/",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{prod}}/~/{{user}}/lesson05/list/append/?obj=[1,\"a\",true,null]&args=[\"b\"]",
+							"host": [
+								"{{prod}}"
+							],
+							"path": [
+								"~",
+								"{{user}}",
+								"lesson05",
+								"list",
+								"append",
+								""
+							],
+							"query": [
+								{
+									"key": "obj",
+									"value": "[1,\"a\",true,null]"
+								},
+								{
+									"key": "args",
+									"value": "[\"b\"]"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get /~/{{user}}/lesson05/list/index/",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{prod}}/~/{{user}}/lesson05/list/index/?obj=[1,\"a\",true,null,[]]&args=[[]]",
+							"host": [
+								"{{prod}}"
+							],
+							"path": [
+								"~",
+								"{{user}}",
+								"lesson05",
+								"list",
+								"index",
+								""
+							],
+							"query": [
+								{
+									"key": "obj",
+									"value": "[1,\"a\",true,null,[]]"
+								},
+								{
+									"key": "args",
+									"value": "[[]]"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get /~/{{user}}/lesson05/dict/get/",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{prod}}/~/{{user}}/lesson05/dict/get/?obj={\"a\":1, \"b\":2}&args=[\"a\"]",
+							"host": [
+								"{{prod}}"
+							],
+							"path": [
+								"~",
+								"{{user}}",
+								"lesson05",
+								"dict",
+								"get",
+								""
+							],
+							"query": [
+								{
+									"key": "obj",
+									"value": "{\"a\":1, \"b\":2}"
+								},
+								{
+									"key": "args",
+									"value": "[\"a\"]"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get /~/{{user}}/lesson05/dict/clear/",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{prod}}/~/{{user}}/lesson05/dict/clear/?obj={\"a\":1, \"b\":2}&args=[]",
+							"host": [
+								"{{prod}}"
+							],
+							"path": [
+								"~",
+								"{{user}}",
+								"lesson05",
+								"dict",
+								"clear",
+								""
+							],
+							"query": [
+								{
+									"key": "obj",
+									"value": "{\"a\":1, \"b\":2}"
+								},
+								{
+									"key": "args",
+									"value": "[]"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get /~/{{user}}/lesson05/str/index/",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{prod}}/~/{{user}}/lesson05/str/index/?obj=\"abcde\"&args=[\"c\"]",
+							"host": [
+								"{{prod}}"
+							],
+							"path": [
+								"~",
+								"{{user}}",
+								"lesson05",
+								"str",
+								"index",
+								""
+							],
+							"query": [
+								{
+									"key": "obj",
+									"value": "\"abcde\""
+								},
+								{
+									"key": "args",
+									"value": "[\"c\"]"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "get /~/{{user}}/lesson05/str/title/",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{prod}}/~/{{user}}/lesson05/str/title/?obj=\"ab cd ße\"&args=[]",
+							"host": [
+								"{{prod}}"
+							],
+							"path": [
+								"~",
+								"{{user}}",
+								"lesson05",
+								"str",
+								"title",
+								""
+							],
+							"query": [
+								{
+									"key": "obj",
+									"value": "\"ab cd ße\""
+								},
+								{
+									"key": "args",
+									"value": "[]"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "contacts - get all",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{prod}}/~/{{user}}/contacts/",
+							"host": [
+								"{{prod}}"
+							],
+							"path": [
+								"~",
+								"{{user}}",
+								"contacts",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "contacts - get one by id",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{prod}}/~/{{user}}/contacts/1",
+							"host": [
+								"{{prod}}"
+							],
+							"path": [
+								"~",
+								"{{user}}",
+								"contacts",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "contacts - get all - find by name",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "{{prod}}/~/{{user}}/contacts/?name=a",
+							"host": [
+								"{{prod}}"
+							],
+							"path": [
+								"~",
+								"{{user}}",
+								"contacts",
+								""
+							],
+							"query": [
+								{
+									"key": "name",
+									"value": "a"
+								}
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "contacts - create new",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"name\": \"new contact 1\",\n    \"phone\": \"+1\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{prod}}/~/{{user}}/contacts/",
+							"host": [
+								"{{prod}}"
+							],
+							"path": [
+								"~",
+								"{{user}}",
+								"contacts",
+								""
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "contacts - update existing one",
+					"request": {
+						"method": "PATCH",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"name\": \"new contact 1\",\n    \"phone\": \"+12\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{prod}}/~/{{user}}/contacts/1",
+							"host": [
+								"{{prod}}"
+							],
+							"path": [
+								"~",
+								"{{user}}",
+								"contacts",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "contacts - delete one",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"name\": \"new contact 1\",\n    \"phone\": \"+12\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "{{prod}}/~/{{user}}/contacts/1",
+							"host": [
+								"{{prod}}"
+							],
+							"path": [
+								"~",
+								"{{user}}",
+								"contacts",
+								"1"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "prod",
+			"value": "https://m-pt1-63-23.sidorov.dev",
+			"type": "string"
+		},
+		{
+			"key": "dev",
+			"value": "http://localhost:8000",
+			"type": "string"
+		},
+		{
+			"key": "user",
+			"value": "alexander_sidorov",
+			"type": "string"
+		}
+	]
+}

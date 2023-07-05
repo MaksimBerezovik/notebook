@@ -1,0 +1,21 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}База{% endblock title %} 👇 Контакты</title>
+    <style>
+        {% block style %}{% endblock style %}
+    </style>
+</head>
+<body>
+
+    <header>
+        <img src="{% static 'app_alexander_sidorov/hardbass.png' %}"
+             alt="hardbass 4life"/>
+    </header>
+
+    {% block content %}{% endblock %}
+
+</body>
+</html>

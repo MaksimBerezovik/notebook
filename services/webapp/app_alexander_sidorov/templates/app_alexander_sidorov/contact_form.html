@@ -1,0 +1,16 @@
+{% extends 'app_alexander_sidorov/base.html' %}
+
+{% block title %}Создать{% endblock title %}
+
+{% block content %}
+<h1>{{ page_header }}</h1>
+<hr>
+
+<form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Сохранить</button>
+</form>
+<p><a href="/alexander_sidorov/contacts/"><button type="reset">Отменить</button></a></p>
+
+{% endblock content %}
